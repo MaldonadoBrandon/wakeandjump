@@ -4,7 +4,7 @@
 
 ![](https://user-images.githubusercontent.com/98501536/280554059-2585fb59-6cc2-48ef-91b2-76b73ff7fd8e.png)
 
-##Dependancies
+## Dependancies
 
 - Python 3.10.2
 - OpenCV
@@ -12,7 +12,7 @@
 - Numpy
 - Tkinter
 
-##Overview
+## Overview
 
 Wake and Jump is a Python project that works with OpenCV and [Mediapipe Framework](https://developers.google.com/mediapipe/solutions "Mediapipe Framework") to detect the bodyparts positions and calculate the number of Jumping Jacks performed by the user.
 Once the user completed the goal number of jumps, the alarm will stop.
