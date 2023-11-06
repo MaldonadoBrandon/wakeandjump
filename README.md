@@ -24,3 +24,5 @@ The following steps were performed for jump detection:
 3. Compute the distances between these body parts to assess their relative positions.
 4. Utilize trigonometry to determine the angles formed between the different body parts.
 5. Based on the positions of body parts and the calculated angles, evaluate if the user has executed a "Jumping Jack" exercise, and increment the counter accordingly.
+
+You can find a video of the project [Here](https://youtu.be/KeIK-Jr9LVk "Here")
