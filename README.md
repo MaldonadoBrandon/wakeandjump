@@ -4,7 +4,7 @@
 
 ![](https://user-images.githubusercontent.com/98501536/280554059-2585fb59-6cc2-48ef-91b2-76b73ff7fd8e.png)
 
-## Dependancies
+## Dependencies
 
 - Python 3.10.2
 - OpenCV
